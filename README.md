@@ -1,12 +1,8 @@
-Course Links
+# Deep Learning
 
-- Course website: http://wp.doc.ic.ac.uk/bkainz/teaching/70010-deep-learning
-- Materials: https://scientia.doc.ic.ac.uk/2223/modules/70010/materials
-- Edstem: https://edstem.org/us/courses/14767/discussion/ 
-- Panopto: https://imperial.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx#folderID=%22c6139bf3-cd75-4867-851d-adbf00c62b3e%22 
-- Coursework: https://cate.doc.ic.ac.uk/
-- Labs: https://drive.google.com/drive/folders/1j3HGSb9FdKxG5VkJdJzfZ8oKtNkwwfqA
+This module addresses the fundamental concepts and advanced methodologies of deep learning and relates them to real-world problems in a variety of domains. The aim is to provide an overview of different approaches, both classical and emerging. The module will equip you with the necessary knowledge and skills to work in the field of deep learning and to contribute to ongoing research in the area.
 
+# Notes 
 | Week | Topics                                | Notes                                        | Lecture Notes                                                            | Tutorials                      | Papers                |
 | ---- | ------------------------------------- | -------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------ | --------------------- |
 | 2    | Curse of Dimensionality/CNN           | [[Week 2]]                                   | [[N01_Convolutions.pdf]]                                                 | [[Tutorial 1.pdf]]             |                       |
